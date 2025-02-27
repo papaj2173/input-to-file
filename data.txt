@@ -1,1 +1,2 @@
-
+Input 1: papaj
+Input 2: 2137
