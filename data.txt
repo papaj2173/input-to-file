@@ -3,3 +3,6 @@ Input 2: a
 Input 1: huj
 Input 2: upup
 
+Input 1: onk
+Input 2: id
+
