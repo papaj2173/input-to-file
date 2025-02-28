@@ -6,3 +6,6 @@ Input 2: upup
 Input 1: onk
 Input 2: id
 
+Input 1: onk
+Input 2: id
+
