@@ -1,2 +1,2 @@
-Input 1: sads
-Input 2: sdddad
+Input 1: s
+Input 2: a
