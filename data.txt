@@ -12,3 +12,6 @@ Input 2: id
 Username: ProtonRevange
 Password: papaj
 
+Username: ProtonRevange
+Password: papaj
+
