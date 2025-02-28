@@ -1,2 +1,5 @@
 Input 1: s
 Input 2: a
+Input 1: huj
+Input 2: upup
+
